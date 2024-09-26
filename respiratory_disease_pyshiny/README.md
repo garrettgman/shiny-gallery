@@ -2,7 +2,7 @@ Note: The original version of this application is at https://github.com/Appsilon
 
 # Respiratory Disease: Shiny for Python Version
 
-[![](https://docs.posit.co/connect-cloud/images/cc-deploy.svg)](https://connect.posit.cloud/publish?framework=shiny&sourceRepositoryURL=https%3A%2F%2Fgithub.com%2Frstudio%2Fshiny-gallery&sourceRef=main&sourceRefType=branch&primaryFile=respiratory_disease_pyshiny%2Fapp.py&pythonVersion=3.11)
+[![](https://docs.posit.co/connect-cloud/images/cc-deploy.svg)](https://connect.posit.cloud/publish?framework=shiny&sourceRepositoryURL=https%3A%2F%2Fgithub.com%2Frstudio%2Fshiny-gallery&sourceRef=master&sourceRefType=branch&primaryFile=respiratory_disease_pyshiny%2Fapp.py&pythonVersion=3.11)
 
 This repository contains the result of a Py/Shiny (Shiny for Python) app-sprint during a hackathon. The goal of this sprint was to "translate" an R/Shiny application into a "Shiny for Python" version, as well as to explore some Py/Shiny-specific features. You can explore the original app as a [demo](https://connect.appsilon.com/respiratory_disease_app_sprint/). To see the original R/Shiny app code, please reach out to us.
 
